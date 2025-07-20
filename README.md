@@ -17,19 +17,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
----
-
-### 📸 Screenshots
-<!-- Add screenshots of your application below -->
-<div align="center">
-  <p>Text Cleaning and Preprocessing</p>
-  <img src="https://placehold.co/700x400/2d3748/ffffff?text=Data+Preprocessing" alt="Data Preprocessing Screenshot" width="700">
-  <br>
-  <p>Model Training History</p>
-  <img src="https://placehold.co/700x400/2d3748/ffffff?text=Model+Training+Graph" alt="Model Training Screenshot" width="700">
-</div>
-
----
 
 ### 🔄 Model Workflow
 This diagram illustrates the flow of data from input text to the generated summary through the model.
